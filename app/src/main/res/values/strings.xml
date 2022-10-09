@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CraveRetailTestProject</string>
+    <string name="pusher_secretkey">120617852b2bb5441087</string>
+    <string name="pusherapp_key">5d3657875c763e1b0282</string>
+    <string name="app_id">780628</string>
+    <string name="cluster">us3</string>
+    <string name="channel">sample</string>
+    <string name="event">sampleMessage</string>
+    <string name="send">Send</string>
+    <string name="presssendtostartsocket">Press Send to Start Socket</string>
+</resources>
+
